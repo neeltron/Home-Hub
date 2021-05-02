@@ -13,14 +13,22 @@ Total Hardware Cost = US$13 or 16 CAD
 ## Hardware Setup
 
 NodeMCU - MQ135
+
 A0 - Data
+
 3V3 - VCC
+
 GND - GND
 
+
 NodeMCU - DHT11
+
 D4 - Data
+
 3V3 - VCC
+
 GND - GND
+
 
 ## Installation
 Arduino IDE can be installed from <a href = "https://www.arduino.cc/en/software">this link</a>.
