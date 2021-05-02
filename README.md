@@ -3,9 +3,9 @@ Home Hub is a smart home notification dashboard powered by IoT based sensors as 
 
 ## Hardware Needed and Costs
 
-NodeMCU - US$8
-MQ135 - US$2
-DHT11 - US$3
+NodeMCU - US$8<br>
+MQ135 - US$2<br>
+DHT11 - US$3<br>
 Power Source - A Phone Charger will work, too!
 
 Total Hardware Cost = US$13 or 16 CAD
