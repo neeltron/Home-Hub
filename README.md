@@ -1,10 +1,9 @@
 # Home-Hub
 
 # Installation
-Installing Arduino IDE:
-
 Arduino IDE can be installed from <a href = "https://www.arduino.cc/en/software">this link</a>.
-<br>
+
+
 Setup for NodeMCU:
 <ol>
   <li>Go to File>>Preferences and paste this url in additional Board Manager URLs: http://arduino.esp8266.com/stable/package_esp8266com_index.json</li>
