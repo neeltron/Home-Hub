@@ -1,6 +1,7 @@
 # Home-Hub
+Home Hub is a smart home notification dashboard powered by IoT based sensors as well as a cool web dashboard. Information including temperature, humidity, and air quality is collected and displayed on a web dashboard. Then, this data is used to make recommendations such as whether or not you should go outside (air quality) and what the fire danger is (temperature based). The web dashboard also features a light/dark mode for a good user experience.
 
-# Installation
+## Installation
 Arduino IDE can be installed from <a href = "https://www.arduino.cc/en/software">this link</a>.
 
 
