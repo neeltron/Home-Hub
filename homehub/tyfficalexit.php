@@ -1,5 +1,5 @@
 <?php 
-$link = mysqli_connect('localhost', 'u630298647_bruh', 'Stonks@404', 'u630298647_tangled');
+$link = mysqli_connect('localhost', '*********', '*********', '**********');
 $sql = "SELECT * from homehub";
 $result_side = mysqli_query($link, $sql);
 $resp1 = "";
